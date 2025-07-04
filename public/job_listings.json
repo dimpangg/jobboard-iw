@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "1",
+    "title": "Project Manager",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Project Manager in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-732-3211"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/12"
+  },
+  {
+    "id": "2",
+    "title": "Project Manager",
+    "type": "Internship",
+    "location": "New York, NY",
+    "description": "Join our team as a Project Manager in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-694-1259"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/03"
+  },
+  {
+    "id": "3",
+    "title": "AI Engineer",
+    "type": "Freelance",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a AI Engineer in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-729-7436"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/04/28"
+  },
+  {
+    "id": "4",
+    "title": "QA Tester",
+    "type": "Freelance",
+    "location": "Seattle, WA",
+    "description": "Join our team as a QA Tester in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-664-5596"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/15"
+  },
+  {
+    "id": "5",
+    "title": "AI Engineer",
+    "type": "Contract",
+    "location": "Austin, TX",
+    "description": "Join our team as a AI Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-148-9728"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/04/30"
+  },
+  {
+    "id": "6",
+    "title": "Data Scientist",
+    "type": "Full-Time",
+    "location": "Denver, CO",
+    "description": "Join our team as a Data Scientist in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-454-3768"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/09"
+  },
+  {
+    "id": "7",
+    "title": "Data Scientist",
+    "type": "Full-Time",
+    "location": "Denver, CO",
+    "description": "Join our team as a Data Scientist in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-630-3968"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/01"
+  },
+  {
+    "id": "8",
+    "title": "Project Manager",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Project Manager in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-255-1253"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/13"
+  },
+  {
+    "id": "9",
+    "title": "DevOps Engineer",
+    "type": "Part-Time",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a DevOps Engineer in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-541-3890"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/07"
+  },
+  {
+    "id": "10",
+    "title": "Project Manager",
+    "type": "Contract",
+    "location": "New York, NY",
+    "description": "Join our team as a Project Manager in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-877-7501"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/11"
+  },
+  {
+    "id": "11",
+    "title": "DevOps Engineer",
+    "type": "Internship",
+    "location": "Denver, CO",
+    "description": "Join our team as a DevOps Engineer in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-424-7765"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/10"
+  },
+  {
+    "id": "12",
+    "title": "QA Tester",
+    "type": "Internship",
+    "location": "Denver, CO",
+    "description": "Join our team as a QA Tester in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-511-5870"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/14"
+  },
+  {
+    "id": "13",
+    "title": "Back-End Developer",
+    "type": "Contract",
+    "location": "Austin, TX",
+    "description": "Join our team as a Back-End Developer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-821-2221"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/02"
+  },
+  {
+    "id": "14",
+    "title": "UI/UX Designer",
+    "type": "Internship",
+    "location": "Boston, MA",
+    "description": "Join our team as a UI/UX Designer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "SkyHigh Software",
+      "description": "SkyHigh Software is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@skyhighsoftware.com",
+      "contactPhone": "555-437-8912"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/06"
+  },
+  {
+    "id": "15",
+    "title": "DevOps Engineer",
+    "type": "Full-Time",
+    "location": "Austin, TX",
+    "description": "Join our team as a DevOps Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-462-1338"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/04"
+  },
+  {
+    "id": "16",
+    "title": "UI/UX Designer",
+    "type": "Freelance",
+    "location": "Boston, MA",
+    "description": "Join our team as a UI/UX Designer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "SkyHigh Software",
+      "description": "SkyHigh Software provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@skyhighsoftware.com",
+      "contactPhone": "555-587-8362"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/08"
+  },
+  {
+    "id": "17",
+    "title": "DevOps Engineer",
+    "type": "Contract",
+    "location": "Austin, TX",
+    "description": "Join our team as a DevOps Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-855-8606"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/10"
+  },
+  {
+    "id": "18",
+    "title": "Full Stack Engineer",
+    "type": "Part-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Full Stack Engineer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-484-4571"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/12"
+  },
+  {
+    "id": "19",
+    "title": "Senior Front-End Developer",
+    "type": "Contract",
+    "location": "Denver, CO",
+    "description": "Join our team as a Senior Front-End Developer in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-582-8982"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/06"
+  },
+  {
+    "id": "20",
+    "title": "Senior Front-End Developer",
+    "type": "Part-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Senior Front-End Developer in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "Tech Innovations Inc",
+      "description": "Tech Innovations Inc focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@techinnovationsinc.com",
+      "contactPhone": "555-549-4306"
+    },
+    "workArrangement": "Hybrid",
+    "posted_date": "2025/05/05"
+  },
+  {
+    "id": "21",
+    "title": "DevOps Engineer",
+    "type": "Internship",
+    "location": "New York, NY",
+    "description": "Join our team as a DevOps Engineer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-567-3351"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/16"
+  },
+  {
+    "id": "22",
+    "title": "Data Scientist",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Data Scientist in Remote. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-596-7182"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/17"
+  },
+  {
+    "id": "23",
+    "title": "Full Stack Engineer",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Full Stack Engineer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-578-8896"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/18"
+  },
+  {
+    "id": "24",
+    "title": "Project Manager",
+    "type": "Contract",
+    "location": "New York, NY",
+    "description": "Join our team as a Project Manager in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-769-3385"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/19"
+  },
+  {
+    "id": "25",
+    "title": "QA Tester",
+    "type": "Internship",
+    "location": "New York, NY",
+    "description": "Join our team as a QA Tester in Remote. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-808-7838"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/20"
+  },
+  {
+    "id": "26",
+    "title": "Data Scientist",
+    "type": "Internship",
+    "location": "Austin, TX",
+    "description": "Join our team as a Data Scientist in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-253-7320"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/21"
+  },
+  {
+    "id": "27",
+    "title": "Product Owner",
+    "type": "Freelance",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a Product Owner in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-696-8220"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/22"
+  },
+  {
+    "id": "28",
+    "title": "Senior Front-End Developer",
+    "type": "Contract",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a Senior Front-End Developer in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-276-7891"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/23"
+  },
+  {
+    "id": "29",
+    "title": "DevOps Engineer",
+    "type": "Full-Time",
+    "location": "Austin, TX",
+    "description": "Join our team as a DevOps Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-746-9602"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/24"
+  },
+  {
+    "id": "30",
+    "title": "AI Engineer",
+    "type": "Part-Time",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a AI Engineer in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-720-9913"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/25"
+  },
+  {
+    "id": "31",
+    "title": "UI/UX Designer",
+    "type": "Part-Time",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a UI/UX Designer in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-188-1307"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/26"
+  },
+  {
+    "id": "32",
+    "title": "Full Stack Engineer",
+    "type": "Part-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Full Stack Engineer in Remote. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-412-5184"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/05/27"
+  },
+  {
+    "id": "33",
+    "title": "Senior Front-End Developer",
+    "type": "Freelance",
+    "location": "Austin, TX",
+    "description": "Join our team as a Senior Front-End Developer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-526-5316"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/28"
+  },
+  {
+    "id": "34",
+    "title": "QA Tester",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a QA Tester in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-744-3770"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/29"
+  },
+  {
+    "id": "35",
+    "title": "Senior Front-End Developer",
+    "type": "Full-Time",
+    "location": "Boston, MA",
+    "description": "Join our team as a Senior Front-End Developer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-108-3835"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/05/30"
+  },
+  {
+    "id": "36",
+    "title": "Senior Front-End Developer",
+    "type": "Freelance",
+    "location": "New York, NY",
+    "description": "Join our team as a Senior Front-End Developer in Remote. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-592-5510"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/06/01"
+  },
+  {
+    "id": "37",
+    "title": "UI/UX Designer",
+    "type": "Internship",
+    "location": "New York, NY",
+    "description": "Join our team as a UI/UX Designer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-162-4272"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/02"
+  },
+  {
+    "id": "38",
+    "title": "Project Manager",
+    "type": "Freelance",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Project Manager in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-751-1517"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/03"
+  },
+  {
+    "id": "39",
+    "title": "Full Stack Engineer",
+    "type": "Contract",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Full Stack Engineer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-712-6094"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/04"
+  },
+  {
+    "id": "40",
+    "title": "Product Owner",
+    "type": "Part-Time",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a Product Owner in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-993-8194"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/05"
+  },
+  {
+    "id": "41",
+    "title": "Senior Front-End Developer",
+    "type": "Contract",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a Senior Front-End Developer in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-858-4373"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/06"
+  },
+  {
+    "id": "42",
+    "title": "Data Scientist",
+    "type": "Contract",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Data Scientist in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-437-1380"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/07"
+  },
+  {
+    "id": "43",
+    "title": "Back-End Developer",
+    "type": "Freelance",
+    "location": "Denver, CO",
+    "description": "Join our team as a Back-End Developer in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-462-6156"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/08"
+  },
+  {
+    "id": "44",
+    "title": "UI/UX Designer",
+    "type": "Full-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a UI/UX Designer in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-776-4720"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/09"
+  },
+  {
+    "id": "45",
+    "title": "AI Engineer",
+    "type": "Freelance",
+    "location": "Boston, MA",
+    "description": "Join our team as a AI Engineer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "SkyHigh Software",
+      "description": "SkyHigh Software focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@skyhighsoftware.com",
+      "contactPhone": "555-691-9260"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/10"
+  },
+  {
+    "id": "46",
+    "title": "Project Manager",
+    "type": "Full-Time",
+    "location": "Boston, MA",
+    "description": "Join our team as a Project Manager in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-941-7505"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/11"
+  },
+  {
+    "id": "47",
+    "title": "Project Manager",
+    "type": "Part-Time",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a Project Manager in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-423-4781"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/12"
+  },
+  {
+    "id": "48",
+    "title": "Full Stack Engineer",
+    "type": "Part-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a Full Stack Engineer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-637-9722"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/13"
+  },
+  {
+    "id": "49",
+    "title": "Back-End Developer",
+    "type": "Contract",
+    "location": "Boston, MA",
+    "description": "Join our team as a Back-End Developer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "Tech Innovations Inc",
+      "description": "Tech Innovations Inc offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@techinnovationsinc.com",
+      "contactPhone": "555-116-8773"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/14"
+  },
+  {
+    "id": "50",
+    "title": "Full Stack Engineer",
+    "type": "Part-Time",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Full Stack Engineer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-835-5821"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/15"
+  },
+  {
+    "id": "51",
+    "title": "Senior Front-End Developer",
+    "type": "Freelance",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Senior Front-End Developer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-530-9857"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/16"
+  },
+  {
+    "id": "52",
+    "title": "Data Scientist",
+    "type": "Freelance",
+    "location": "Boston, MA",
+    "description": "Join our team as a Data Scientist in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "SkyHigh Software",
+      "description": "SkyHigh Software offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@skyhighsoftware.com",
+      "contactPhone": "555-636-4048"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/17"
+  },
+  {
+    "id": "53",
+    "title": "Product Owner",
+    "type": "Contract",
+    "location": "New York, NY",
+    "description": "Join our team as a Product Owner in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-859-3103"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/18"
+  },
+  {
+    "id": "54",
+    "title": "DevOps Engineer",
+    "type": "Internship",
+    "location": "Boston, MA",
+    "description": "Join our team as a DevOps Engineer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-464-5146"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/19"
+  },
+  {
+    "id": "55",
+    "title": "Project Manager",
+    "type": "Contract",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Project Manager in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-417-9365"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/20"
+  },
+  {
+    "id": "56",
+    "title": "Data Scientist",
+    "type": "Part-Time",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a Data Scientist in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-264-6380"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/21"
+  },
+  {
+    "id": "57",
+    "title": "Data Scientist",
+    "type": "Full-Time",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a Data Scientist in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-156-6069"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/22"
+  },
+  {
+    "id": "58",
+    "title": "Senior Front-End Developer",
+    "type": "Part-Time",
+    "location": "Denver, CO",
+    "description": "Join our team as a Senior Front-End Developer in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-175-3653"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/23"
+  },
+  {
+    "id": "59",
+    "title": "AI Engineer",
+    "type": "Contract",
+    "location": "Seattle, WA",
+    "description": "Join our team as a AI Engineer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-659-1673"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/24"
+  },
+  {
+    "id": "60",
+    "title": "Product Owner",
+    "type": "Full-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Product Owner in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-928-4184"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/25"
+  },
+  {
+    "id": "61",
+    "title": "Project Manager",
+    "type": "Freelance",
+    "location": "Austin, TX",
+    "description": "Join our team as a Project Manager in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-256-6234"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/26"
+  },
+  {
+    "id": "62",
+    "title": "AI Engineer",
+    "type": "Full-Time",
+    "location": "New York, NY",
+    "description": "Join our team as a AI Engineer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-654-8383"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/27"
+  },
+  {
+    "id": "63",
+    "title": "Senior Front-End Developer",
+    "type": "Part-Time",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Senior Front-End Developer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-109-5369"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/28"
+  },
+  {
+    "id": "64",
+    "title": "DevOps Engineer",
+    "type": "Freelance",
+    "location": "Austin, TX",
+    "description": "Join our team as a DevOps Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-900-7344"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/29"
+  },
+  {
+    "id": "65",
+    "title": "Full Stack Engineer",
+    "type": "Contract",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a Full Stack Engineer in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-827-8229"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/30"
+  },
+  {
+    "id": "66",
+    "title": "AI Engineer",
+    "type": "Freelance",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a AI Engineer in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-500-7842"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/01"
+  },
+  {
+    "id": "67",
+    "title": "AI Engineer",
+    "type": "Part-Time",
+    "location": "Austin, TX",
+    "description": "Join our team as a AI Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "SkyHigh Software",
+      "description": "SkyHigh Software is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@skyhighsoftware.com",
+      "contactPhone": "555-506-8905"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/02"
+  },
+  {
+    "id": "68",
+    "title": "Senior Front-End Developer",
+    "type": "Contract",
+    "location": "Austin, TX",
+    "description": "Join our team as a Senior Front-End Developer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-698-2573"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/03"
+  },
+  {
+    "id": "69",
+    "title": "Project Manager",
+    "type": "Freelance",
+    "location": "New York, NY",
+    "description": "Join our team as a Project Manager in Remote. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-750-3872"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/06/04"
+  },
+  {
+    "id": "70",
+    "title": "Back-End Developer",
+    "type": "Internship",
+    "location": "New York, NY",
+    "description": "Join our team as a Back-End Developer in New York, NY. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-311-9460"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/05"
+  },
+  {
+    "id": "71",
+    "title": "Back-End Developer",
+    "type": "Full-Time",
+    "location": "Boston, MA",
+    "description": "Join our team as a Back-End Developer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-918-9155"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/06"
+  },
+  {
+    "id": "72",
+    "title": "UI/UX Designer",
+    "type": "Freelance",
+    "location": "Boston, MA",
+    "description": "Join our team as a UI/UX Designer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "SkyHigh Software",
+      "description": "SkyHigh Software is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@skyhighsoftware.com",
+      "contactPhone": "555-417-4728"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/07"
+  },
+  {
+    "id": "73",
+    "title": "AI Engineer",
+    "type": "Part-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a AI Engineer in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-598-9977"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/08"
+  },
+  {
+    "id": "74",
+    "title": "DevOps Engineer",
+    "type": "Internship",
+    "location": "Seattle, WA",
+    "description": "Join our team as a DevOps Engineer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-355-1074"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/09"
+  },
+  {
+    "id": "75",
+    "title": "Back-End Developer",
+    "type": "Part-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Back-End Developer in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-619-2923"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/10"
+  },
+  {
+    "id": "76",
+    "title": "Product Owner",
+    "type": "Contract",
+    "location": "Seattle, WA",
+    "description": "Join our team as a Product Owner in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-700-8220"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/11"
+  },
+  {
+    "id": "77",
+    "title": "Product Owner",
+    "type": "Part-Time",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a Product Owner in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Tech Innovations Inc",
+      "description": "Tech Innovations Inc provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@techinnovationsinc.com",
+      "contactPhone": "555-891-4694"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/12"
+  },
+  {
+    "id": "78",
+    "title": "DevOps Engineer",
+    "type": "Freelance",
+    "location": "Seattle, WA",
+    "description": "Join our team as a DevOps Engineer in Seattle, WA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "Tech Innovations Inc",
+      "description": "Tech Innovations Inc offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@techinnovationsinc.com",
+      "contactPhone": "555-927-4219"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/13"
+  },
+  {
+    "id": "79",
+    "title": "UI/UX Designer",
+    "type": "Part-Time",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a UI/UX Designer in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-192-8890"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/14"
+  },
+  {
+    "id": "80",
+    "title": "Full Stack Engineer",
+    "type": "Full-Time",
+    "location": "Denver, CO",
+    "description": "Join our team as a Full Stack Engineer in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "NextGen Solutions",
+      "description": "NextGen Solutions is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@nextgensolutions.com",
+      "contactPhone": "555-755-3840"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/15"
+  },
+  {
+    "id": "81",
+    "title": "Senior Front-End Developer",
+    "type": "Contract",
+    "location": "Austin, TX",
+    "description": "Join our team as a Senior Front-End Developer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-279-8593"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/16"
+  },
+  {
+    "id": "82",
+    "title": "Full Stack Engineer",
+    "type": "Part-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Full Stack Engineer in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-857-5479"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/17"
+  },
+  {
+    "id": "83",
+    "title": "Senior Front-End Developer",
+    "type": "Part-Time",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a Senior Front-End Developer in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-463-1579"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/18"
+  },
+  {
+    "id": "84",
+    "title": "DevOps Engineer",
+    "type": "Contract",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a DevOps Engineer in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-948-5572"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/19"
+  },
+  {
+    "id": "85",
+    "title": "Full Stack Engineer",
+    "type": "Freelance",
+    "location": "Boston, MA",
+    "description": "Join our team as a Full Stack Engineer in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "BrightCode",
+      "description": "BrightCode provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@brightcode.com",
+      "contactPhone": "555-987-1699"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/20"
+  },
+  {
+    "id": "86",
+    "title": "Senior Front-End Developer",
+    "type": "Internship",
+    "location": "New York, NY",
+    "description": "Join our team as a Senior Front-End Developer in Remote. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-907-3290"
+    },
+    "workArrangement": "Remote",
+    "posted_date": "2025/06/21"
+  },
+  {
+    "id": "87",
+    "title": "Project Manager",
+    "type": "Contract",
+    "location": "Boston, MA",
+    "description": "Join our team as a Project Manager in Boston, MA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-108-6767"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/22"
+  },
+  {
+    "id": "88",
+    "title": "Full Stack Engineer",
+    "type": "Freelance",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a Full Stack Engineer in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$80K - $100K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-607-6775"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/23"
+  },
+  {
+    "id": "89",
+    "title": "QA Tester",
+    "type": "Internship",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a QA Tester in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-365-6418"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/24"
+  },
+  {
+    "id": "90",
+    "title": "Senior Front-End Developer",
+    "type": "Full-Time",
+    "location": "Denver, CO",
+    "description": "Join our team as a Senior Front-End Developer in Denver, CO. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-663-2846"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/25"
+  },
+  {
+    "id": "91",
+    "title": "Senior Front-End Developer",
+    "type": "Freelance",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a Senior Front-End Developer in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-679-1574"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/26"
+  },
+  {
+    "id": "92",
+    "title": "Full Stack Engineer",
+    "type": "Part-Time",
+    "location": "Los Angeles, CA",
+    "description": "Join our team as a Full Stack Engineer in Los Angeles, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$70K - $90K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-238-8966"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/27"
+  },
+  {
+    "id": "93",
+    "title": "AI Engineer",
+    "type": "Freelance",
+    "location": "Austin, TX",
+    "description": "Join our team as a AI Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC offers top-notch cybersecurity and IT infrastructure services.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-387-3251"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/28"
+  },
+  {
+    "id": "94",
+    "title": "Full Stack Engineer",
+    "type": "Internship",
+    "location": "Atlanta, GA",
+    "description": "Join our team as a Full Stack Engineer in Atlanta, GA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Creative Minds LLC",
+      "description": "Creative Minds LLC is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@creativemindsllc.com",
+      "contactPhone": "555-914-9430"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/29"
+  },
+  {
+    "id": "95",
+    "title": "Back-End Developer",
+    "type": "Contract",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a Back-End Developer in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-865-2112"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/30"
+  },
+  {
+    "id": "96",
+    "title": "Data Scientist",
+    "type": "Full-Time",
+    "location": "Austin, TX",
+    "description": "Join our team as a Data Scientist in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "MetaTech",
+      "description": "MetaTech is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@metatech.com",
+      "contactPhone": "555-577-3203"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/01"
+  },
+  {
+    "id": "97",
+    "title": "DevOps Engineer",
+    "type": "Freelance",
+    "location": "Austin, TX",
+    "description": "Join our team as a DevOps Engineer in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$90K - $110K",
+    "company": {
+      "name": "CyberNest Systems",
+      "description": "CyberNest Systems focuses on delivering scalable and user-friendly mobile and web applications.",
+      "contactEmail": "contact@cybernestsystems.com",
+      "contactPhone": "555-910-8970"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/02"
+  },
+  {
+    "id": "98",
+    "title": "DevOps Engineer",
+    "type": "Contract",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a DevOps Engineer in San Francisco, CA. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$100K - $120K",
+    "company": {
+      "name": "Code Galaxy",
+      "description": "Code Galaxy provides innovative services in cloud computing, AI, and data analytics.",
+      "contactEmail": "contact@codegalaxy.com",
+      "contactPhone": "555-434-7463"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/03"
+  },
+  {
+    "id": "99",
+    "title": "QA Tester",
+    "type": "Full-Time",
+    "location": "Austin, TX",
+    "description": "Join our team as a QA Tester in Austin, TX. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$120K - $150K",
+    "company": {
+      "name": "FutureTech Labs",
+      "description": "FutureTech Labs is a leading technology company specializing in software development and digital solutions.",
+      "contactEmail": "contact@futuretechlabs.com",
+      "contactPhone": "555-849-2472"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/04"
+  },
+  {
+    "id": "100",
+    "title": "Product Owner",
+    "type": "Full-Time",
+    "location": "Chicago, IL",
+    "description": "Join our team as a Product Owner in Chicago, IL. We are looking for a talented individual passionate about technology and innovation.",
+    "salary": "$60K - $80K",
+    "company": {
+      "name": "Digital Dreams Co",
+      "description": "Digital Dreams Co is known for cutting-edge research and development in machine learning.",
+      "contactEmail": "contact@digitaldreamsco.com",
+      "contactPhone": "555-627-9429"
+    },
+    "workArrangement": "On-site",
+    "posted_date": "2025/06/05"
+  }
+]
