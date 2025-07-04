@@ -16,7 +16,8 @@
 
 ## About
 
-This project is a simple job board application. It uses Next.js, TypeScript, and Tailwind CSS for styling. The application features a job listing where users can search for jobs by title and company, also filter it by location and job type. The job data is using JSON files for simplicity, but it can be easily extended to use a database or an API.
+This project is a simple job board application. It uses Next.js, TypeScript, and Tailwind CSS for styling. The application features a job listing where users can search for jobs by title and company, also filter it by location and job type. The filter state is saved in the URL query parameters. So users can share the URL with the applied filters and not lose them when they refresh the page.
+The job data is using JSON files for simplicity, but it can be easily extended to use a database or an API.
 
 ## Screenshots
 

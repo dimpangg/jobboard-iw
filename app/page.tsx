@@ -230,7 +230,7 @@ export default async function Home({
             </Button>
           </CardFooter>
         </Card>
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 flex-1">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4 flex-1 h-fit">
           {!filteredJobs.length && (
             <div className="lg:col-span-3 text-center w-full flex flex-col items-center justify-center h-full">
               <FileX2 className="size-16 text-primary mb-4" />
@@ -244,7 +244,7 @@ export default async function Home({
             <Link
               key={job.id}
               href={`/job/${job.id}`}
-              className="focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-xl transition-all hover:ring-2 hover:ring-primary hover:ring-offset-2 focus-visible:outline-none"
+              className="focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 rounded-xl transition-all hover:ring-2 hover:ring-primary hover:ring-offset-2 focus-visible:outline-none h-full"
             >
               <Card className="h-full">
                 <CardHeader>
